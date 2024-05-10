@@ -1,4 +1,4 @@
-# ⚾숫자야구🔢
+# 🔗[⚾숫자야구🔢](https://dev-yihyun.github.io/Number_Baseball/)
 
 <p align="center">
   <img src="https://github.com/dev-yihyun/Number_Baseball/assets/67820737/7db8d9d7-0f3e-4ce2-95b5-a186bfe6c98b">
